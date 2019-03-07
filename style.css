@@ -7,8 +7,6 @@
 
 .layout-1{
     background-color: #e3e3e3;
-    padding: 10px;
-    
 
 }
 
@@ -24,8 +22,6 @@
 
 .layout-1 #topHeader{
     background-color:red;
-    display: inline;
-
 
 }
 
@@ -36,7 +32,6 @@
 
 .layout-1 section{
     background-color:green;
-    margin: 10%;
 }
 
 .layout-1 #sectionHeader{
@@ -119,3 +114,12 @@
 #pageFooter{
     background-color:green;
 }
+
+
+
+
+
+
+
+style.css
+Displaying index.html.
