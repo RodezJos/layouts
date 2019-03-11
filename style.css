@@ -60,6 +60,7 @@
     float: right;
     width: 25%;
     text-align: center;
+    text-align: center;
     
     
 }
@@ -67,8 +68,7 @@
 .layout-1 aside a{
     background-color:white;
     text-align: center;
-
-    width: 12%;
+     height: 12%;
     
 
 
@@ -82,29 +82,49 @@
 
 #topHeader2{
     background-color:red;
+    text-align: center;
+    float: none;
+    height: 10%;
+    padding: 12pxx;
 
 }
 .layout-2 nav{
     background-color:blue;
+    float: left;
+    text-align: center;
+    width: 25%;
+    
 
 }
 
 .layout-2 nav a{
     background-color:white;
+    text-align: center;
+    line-height: 12px;
+    word-spacing: 50px;
+    padding: px;
+    
 }
 
 #content{
     background-color:green;
     height:20px;
+    float: none;
+    text-align: center;
 }
 
 .article2{
     background-color:yellow;
+    height:20px;
+    float: none;
+    text-align: center;
 }
 
 .aside-content{
     background-color:purple;
     height:20px;
+    float: right;
+    text-align: center;
 
 }
 
