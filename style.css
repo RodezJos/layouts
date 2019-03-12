@@ -102,14 +102,13 @@
     text-align: center;
     line-height: 12px;
     word-spacing: 50px;
-    padding: px;
+    float: none;
     
 }
 
 #content{
     background-color:green;
     height:20px;
-    float: none;
     text-align: center;
 }
 
@@ -141,24 +140,43 @@
 
 .layout-3 header{
     background-color:red;
+    float: none;
+    text-align: center;
+    padding: 12px;
+    margin: 2px;
+
 }
 
 #sectionHeader3{
     background-color:blue;
+    text-align: center;
+    width: 50%;
 }
 
 .layout-3 nav{
     background-color:yellow;
+    float: left;
+    width: 15%;
+
+
 }
 
 .layout-3 section{
     background-color:orange;
+    float: none;
+    text-align: center;
+
 }
 
 .layout-3 aside{
     background-color:purple;
+    float: right;
+
 }
 
 #pageFooter{
     background-color:green;
+    float: none;
+    text-align: center;
+    
 }
