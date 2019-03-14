@@ -108,15 +108,10 @@
 
 #content{
     background-color:green;
-    height:20px;
-    text-align: center;
 }
 
 .article2{
     background-color:yellow;
-    height:20px;
-    float: none;
-    text-align: center;
 }
 
 .aside-content{
@@ -150,28 +145,27 @@
 
 #sectionHeader3{
     background-color:blue;
-    text-align: center;
-    width: 50%;
+    width: 100%;
 }
 
 .layout-3 nav{
     background-color:yellow;
     float: left;
     width: 15%;
-
-
+   padding: 12px;
 }
 
 .layout-3 section{
     background-color:orange;
-    float: none;
-    text-align: center;
+    width: 75%;
+    margin-left: 100px;
 
 }
 
 .layout-3 aside{
     background-color:purple;
     float: right;
+    
 
 }
 
@@ -179,5 +173,6 @@
     background-color:green;
     float: none;
     text-align: center;
+    
     
 }
